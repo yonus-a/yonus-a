@@ -43,9 +43,3 @@ With over <b>5 years of experience</b> in web development, I help businesses tra
   <a href="https://github.com/yonus-a" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yonus-amire" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <img alt="Stars" src="https://img.shields.io/github/stars/yonus-a/yonus-a?style=flat-square&labelColor=343b41"/>
-</p>
