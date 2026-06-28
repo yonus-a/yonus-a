@@ -38,7 +38,3 @@ With over <b>5 years of experience</b> in web development, I help businesses tra
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonus-a&layout=compact&theme=default&langs_count=20&hide=css,html,sass&hide_border=true)
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/yonus-amire" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
