@@ -36,37 +36,8 @@ With over <b>5 years of experience</b> in web development, I help businesses tra
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<h3>Experience</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🏢 Company</b></td>
-      <td><b>💼 Role</b></td>
-      <td><b>📅 Period</b></td>
-      <td><b>📍 Location</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Kerman University of Medical Sciences</b></td>
-      <td>Full Stack Engineer</td>
-      <td>Dec 2025 – Present</td>
-      <td>Kerman · On-site</td>
-    </tr>
-    <tr>
-      <td><b>Dope Dev</b></td>
-      <td>Frontend Developer</td>
-      <td>Jan 2026 – Present</td>
-      <td>Kerman · Remote</td>
-    </tr>
-    <tr>
-      <td><b>PART Financial Data Processing</b></td>
-      <td>Full Stack Engineer</td>
-      <td>Oct 2023 – Dec 2025</td>
-      <td>Kerman · On-site</td>
-    </tr>
-  </tbody>
-</table>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
 <p>
