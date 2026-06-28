@@ -36,7 +36,7 @@ With over <b>5 years of experience</b> in web development, I help businesses tra
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonus-a&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
 
 <h3>Where to find me</h3>
 <p>
